@@ -16,3 +16,5 @@ print('* Professores: Leandro e Michel      *')
 print('* Monitores: Emanuel e Carlos        *')
 print('**************************************')
 print(f"Aluno: {nome}")
+
+print("Fim do programa")
