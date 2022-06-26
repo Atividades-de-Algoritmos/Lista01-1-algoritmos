@@ -1,4 +1,8 @@
-# Autores: Carlos, 
+# Autores:
+# michel silva
+# Carlos Eduardo
+#
+# data: 26/06/2022
 #
 # 5.Desenvolva um programa em linguagem Python que recebe do usuário o preço de um produto e um valor de desconto.
 # Com estas informações, o programa deve exibir o preço do produto com desconto. Observações: O valor do desconto
