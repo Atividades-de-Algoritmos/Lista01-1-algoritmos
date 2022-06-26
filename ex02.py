@@ -20,3 +20,8 @@ area = (base * altura) / 2
 print(f"A área do triângulo é: {area}")
 
 print("Fim do programa")
+
+
+#
+print("-----------------------------------------")
+# varsão 2
