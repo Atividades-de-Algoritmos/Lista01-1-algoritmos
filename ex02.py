@@ -1,4 +1,8 @@
-# Autores: Carlos, 
+# Autores:
+# michel silva
+# Carlos Eduardo
+#
+# data: 26/06/2022
 #
 # Implemente um programa em linguagem Python que recebe como entradas a base e a altura de um triângulo
 # e apresente ao usuário a área deste triângulo. A área de um triângulo é calculada a partir da
