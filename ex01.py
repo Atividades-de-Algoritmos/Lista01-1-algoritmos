@@ -1,4 +1,8 @@
-# Autores: Carlos, 
+# Autores:
+# michel silva
+# Carlos Eduardo
+#
+# data: 26/06/2022
 #
 # 1.	De uma forma geral, pode-se afirmar que os Algoritmos são compostos por um conjunto de entradas de
 # dados e uma etapa de processamento para a obtenção de sua(s) saída(s). Muitas vezes, as saídas de um
