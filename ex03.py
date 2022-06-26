@@ -1,21 +1,24 @@
+#
 # Autores:
-# michel silva
+# Michel Silva
+# Emanuel Franklyn
 # Carlos Eduardo
 #
 # data: 26/06/2022
 #
-# Em linguagem Python, crie um programa que recebe como entrada do usuário o valor de uma variável x e seja
-# capaz de apresentar em tela o resultado da seguinte expressão matemática:
-# E = ((x^2-x+1)/((x-5)/2))
+# 3. Em linguagem Python, crie um programa que recebe como   
+# entrada do usuário o valor de uma variável x e seja capaz  
+# de apresentar em tela o resultado da seguinte expressão    
+# matemática: E = ((x^2-x+1)/((x-5)/2))                      
 
 
-# entrada de dados
+# Entrada de dados
 x = float(input("informe o valor de x: ")) # solicita o valor de x
 
-# processamento
-E = ((x**2-x+1)/((x-5)/2))
+# Processamento de dados
+E = ((x**2-x+1)/((x-5)/2)) # Calcula a expressão
 
-# saída de dados
-print(f"O resultado da expressão é: {E}")
+# Saída de dados
+print(f"O resultado da expressão é: {E}") # Imprimindo o resultado da expressão
 
-print("Fim do programa")
+print("fim do programa") # Informamos ao usuário que o programa terminou
