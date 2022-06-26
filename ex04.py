@@ -1,4 +1,8 @@
-# Autores: Carlos, 
+# Autores:
+# michel silva
+# Carlos Eduardo
+#
+# data: 26/06/2022
 #
 # Elabore um programa em linguagem Python que implementa o cálculo do valor de um polinômio do terceiro grau.
 # Um polinômio do terceiro grau possui a seguinte equação geral:
