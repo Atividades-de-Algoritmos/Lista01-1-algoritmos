@@ -1,4 +1,8 @@
-# Autores: Carlos, 
+# Autores:
+# michel silva
+# Carlos Eduardo
+#
+# data: 26/06/2022
 #
 # Em linguagem Python, crie um programa que recebe como entrada do usuário o valor de uma variável x e seja
 # capaz de apresentar em tela o resultado da seguinte expressão matemática:
