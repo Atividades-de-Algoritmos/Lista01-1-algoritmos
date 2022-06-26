@@ -1,9 +1,11 @@
+# Autores: Carlos, 
 #
-# 	Elabore um programa em linguagem Python que implementa o cálculo do valor de um polinômio do terceiro grau.
-# 	Um polinômio do terceiro grau possui a seguinte equação geral:
+# Elabore um programa em linguagem Python que implementa o cálculo do valor de um polinômio do terceiro grau.
+# Um polinômio do terceiro grau possui a seguinte equação geral:
 #
 # p(x)=ax^3+bx^2+cx+d
-#
+
+
 # entrada de dados
 a = float(input("informe o valor de a: ")) # solicita o valor de a
 b = float(input("informe o valor de b: ")) # solicita o valor de b
