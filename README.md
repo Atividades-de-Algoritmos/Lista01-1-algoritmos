@@ -114,6 +114,9 @@ fim do programa
 
 # ex03
 #### <a href="https://github.com/Atividades-de-Algoritmos/Lista01-1-algoritmos/blob/main/ex03.py">Ir até o código</a>
+
+<br>
+
 ## Sobre 📒:
 - Um algoritmo que recebe o valor de x e em seguida calcula a expressão abaixo com essa incógnita solicitada.
 ` E = ((x^2-x+1)/((x-5)/2))`
@@ -144,6 +147,9 @@ fim do programa
  
 # ex04
 #### <a href="https://github.com/Atividades-de-Algoritmos/Lista01-1-algoritmos/blob/main/ex04.py">Ir até o código</a>
+
+<br>
+
 ## Sobre 📒:
 - Solicita incógnitas do usuário para realizar o calculo de um polinômio de terceiro grau utilizando a expressão abaixo:
 `p(x) = ax^3 + bx^2 + cx + d`
@@ -180,6 +186,7 @@ fim do programa
 # ex05
 <a href = 'https://github.com/Atividades-de-Algoritmos/Lista01-1-algoritmos/blob/main/ex05.py'>Ir até o código</a>
 
+<br>
 
 ## Sobre 📒:
 - Algoritmo que recebe o valor de um produto e  o seu desconto, no final o programa mostra pra o usuário o novo preço do produto com desconto aplicado.
