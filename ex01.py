@@ -4,7 +4,7 @@
 # Emanuel Franklyn
 # Carlos Eduardo
 #
-# data: 26/06/2022
+# data: 27/06/2022
 #
 # 1. De uma forma geral, pode-se afirmar que os Algoritmos   
 # são compostos por um conjunto de entradas de dados e uma   
@@ -17,7 +17,7 @@
 
 # Entrada de dados
 
-nome = input("informe o seu nome: ") # solicita o nome do usuário
+nome = input("informe o seu nome: ") # Solicita o nome do usuário
 
 # Processamento e saída de dados
 
