@@ -30,7 +30,7 @@
             <a href="#ex04">Exercício 04 -> Polinômios.</a>
         </li>
         <li>
-            <a href = "#ex05">Exercício 05 -> Porcentagem %</a>
+            <a href = "#ex05">Exercício 05 -> Descontos %</a>
         </li>
     </ol>
 </details>
