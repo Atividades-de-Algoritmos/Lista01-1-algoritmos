@@ -84,6 +84,7 @@ fim do programa
 
 ## Sobre 📒:
 - Um algoritmo que recebe como entrada a base a altura de um triângulo qualquer, logo em seguida faz o calculo da área utilizando a fórmula abaixo:
+
 `area = (base * altura) / 2`
 
 <br>
@@ -119,6 +120,7 @@ fim do programa
 
 ## Sobre 📒:
 - Um algoritmo que recebe o valor de x e em seguida calcula a expressão abaixo com essa incógnita solicitada.
+
 ` E = ((x^2-x+1)/((x-5)/2))`
 
 <br>
@@ -152,6 +154,7 @@ fim do programa
 
 ## Sobre 📒:
 - Solicita incógnitas do usuário para realizar o calculo de um polinômio de terceiro grau utilizando a expressão abaixo:
+
 `p(x) = ax^3 + bx^2 + cx + d`
 
 <br>
